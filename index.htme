@@ -1,0 +1,87 @@
+<html>
+    <body>
+        <header>
+            <img src="https://logofactory.ua/wp-content/uploads/2019/02/Top-Cake-logo-min.jpg" height="100px"/>
+            <nav>
+                <a href="">Головна</a>
+                <a href="#catalog">Каталог</a>
+                <a href="">Магазини</a>
+                <a href="">Акції та знижки</a>
+                <a href="">Новинки</a>
+                <a href="#principles">Наші принципи</a>
+                <a href="">Партнерство</a>
+                <a href="">Відгуки</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Confectionery mail</h1>
+            <img class="head_img" src="" width="870px"/>
+            <h2 id="catalog">Каталог</h2>
+            <section class="catalog">
+<article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/316293096_1380101026128710_5234469061682426390_n.jpg?stp=c0.22.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=da31f3&_nc_ohc=rlE-kZyES48AX8bwmGh&_nc_ht=scontent.flwo5-1.fna&oh=00_AfBNbLuroKraOvzyLwlT90r8EwLntGDOT77LWZ2R1mHEKw&oe=6448EA0F" height="100px"/><br/>
+                    <a href="">Весільні торти</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/324841686_527257645855099_6815184079634655838_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=zkn_cKmmXwkAX-luY7s&_nc_oc=AQlvhSf2wf81g3j4Sz7beqfz-1RAbPqTgg--WPBa-cQf5izYAEqAvMId3PFI0W6CqJc&_nc_ht=scontent.flwo5-1.fna&oh=00_AfAq_751jihn-uBC8SY1lrIcnVdFZNjg9e8ofvHNtuHMmg&oe=64483EBD" height="100px"/><br/>
+                    <a href="">Короваї</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/321485779_886298529179562_7315571948489440561_n.jpg?stp=c0.22.206.206a_dst-jpg_p206x206&_nc_cat=100&ccb=1-7&_nc_sid=da31f3&_nc_ohc=DnX8kxGi8E4AX_Z42RC&_nc_ht=scontent.flwo5-1.fna&oh=00_AfBT1XPuJAcoeYQY13c8P6ojeNCQ_T2R4ZIgaYIsamx9NQ&oe=64492AC5" height="100px"/><br/>
+                    <a href="">Пляцки</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/315082070_1373247243480755_8874177539717158185_n.jpg?stp=c0.13.206.206a_dst-jpg_p206x206&_nc_cat=103&ccb=1-7&_nc_sid=da31f3&_nc_ohc=ptWtiOEY8qYAX8seD1f&_nc_ht=scontent.flwo5-1.fna&oh=00_AfB72IGKjFpaP8dnWIxT-FXm4Tsb5LGnSqnS6b-h3jI5qw&oe=64495961" height="100px"/><br/>
+                    <a href="">Торти</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/339330815_178710498350936_5433769668001158546_n.jpg?stp=c34.0.206.206a_dst-jpg_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=da31f3&_nc_ohc=pW-0unT2emgAX_fFBMz&_nc_ht=scontent.flwo5-1.fna&oh=00_AfBSwDqb_B_fHXXAJAZlA_0di30M7nvFr9a5F7JXWnOegg&oe=6447D954" height="100px"/><br/>
+                    <a href="">хліб на заквасці</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/311595876_1350556849083128_9014834846689514846_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=da31f3&_nc_ohc=imgzqTBpWzUAX8nYrzN&_nc_ht=scontent.flwo5-1.fna&oh=00_AfDaaP3FibrY31e_2tD2FvPAp14OxS_O4DUBU36mn8m9aw&oe=6447ECEF" height="100px"/><br/>
+                    <a href="">Кендібар</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo3-1.fna.fbcdn.net/v/t39.30808-6/264835565_1136521013820047_6719336377558598513_n.jpg?stp=dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=da31f3&_nc_ohc=6R1mICNYe10AX-sln-h&_nc_ht=scontent.flwo3-1.fna&oh=00_AfA8xnH4Fe6tEbXI5dUzssnjdTFO93iQB_MZ6_aQGT0gag&oe=64432814" height="100px"/><br/>
+                    <a href="https://scontent.flwo5-1.fna.fbcdn.net/v/t39.30808-6/279506752_1232246877580793_406940870696190007_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=107&ccb=1-7&_nc_sid=da31f3&_nc_ohc=hvdN7fJdsb8AX_5ID0O&_nc_ht=scontent.flwo5-1.fna&oh=00_AfDitHxZpBhO--KVp8ixnXzk6TTA7D3kmbiwxMwCRamcTQ&oe=64487999">Меренговий рулет</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo3-1.fna.fbcdn.net/v/t39.30808-6/221644888_1043502779788538_6722645426025853399_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=da31f3&_nc_ohc=h_OD5oQlG4IAX8ZOIG_&_nc_ht=scontent.flwo3-1.fna&oh=00_AfB2kSPSff_yXGxOJooZUDpzriXoUWNmhBaZOlFxfsoujg&oe=6441E3D5" height="100px"/><br/>
+                    <a href="">Мусовий торт</a>
+                </article>
+                <article class="product">
+                    <img src="https://scontent.flwo3-1.fna.fbcdn.net/v/t1.6435-9/131474653_903402377131913_5806482993501430533_n.jpg?stp=c34.0.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=da31f3&_nc_ohc=xcbpuQoDIxkAX8uXDEl&_nc_ht=scontent.flwo3-1.fna&oh=00_AfAlFkB9kYK0pDVN5uzPWPIyzKEPFHp9CSZd8Xtwpq5u0Q&oe=6464F98F" height="100px"/><br/>
+                    <a href="">Печеня</a>
+                </article>
+            </section>
+            <p> За більж диталиним описом пешіть в інстаграм</p>
+            <h2 id="principles">Наші принципи</h2>
+            <section class="principles">
+                <article class="principle">
+                   
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/truck-1918551_640_0_1612518875.png" width="80px" height="50px"/>
+                    <p>доставка у будь-які точки міста</p>
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/icons-1831923_640_0_1612518875.png" width="50px" height="50px"/>
+                    <p>безкоштовна консультація</p>
+                </article>
+            </section>
+                       <p> щоденно з 9.00 до 17.00.<br/>
+                     
+               
+                   
+             
+        <footer>
+            <p>Ел. пошта:zpetrunets@gmail.com</p>
+            <p>Телефон:+380 0951486731</p>
+            <p>Адреса:м.Стрий.
+                <a href="https://www.tiktok.com/@zoriana_petrenec?_t=8bW0x9IiJUM&_r=1"><h1>Tiktok</h1></a>
+                 <a href="https://instagram.com/zorianapetrinets?igshid=ZDdkNTZiNTM="><h1>Instagram</h1></a>
+                <a href="https://www.facebook.com/profile.php?id=100023864773772"><h1>Fecebook</h1></a> 
+        </footer>
+    </body>
+</html>
